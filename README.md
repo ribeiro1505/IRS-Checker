@@ -12,9 +12,9 @@ This script helps you identify and print entries in your receipts CSV file that 
 
 2. **Upload the CSV File:**
     - Download your receipts CSV file accessible via [e-fatura portal](https://faturas.portaldasfinancas.gov.pt/consultarDocumentosAdquirente.action)
-![Download CSV](Screenshot_portal.png)
+    - ![Download CSV](Screenshot_portal.png)
     - Add the csv file to the root directory of this project.
-![Root folder CSV](Screenshot_root_folder.png)
+    - ![Root folder CSV](Screenshot_root_folder.png)
 
 3. **Run the Script:**
     - Open a terminal or command prompt in the root directory of the project.
