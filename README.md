@@ -43,8 +43,6 @@ The script currently supports the following categories:
 - Transportes Públicos
 - Cabeleireiros
 
-You can customize the script to add conditions for other categories by extending the code.
-
 ## Important Note
 
 ⚠️ **Possibility of Unidentified Receipts:**
